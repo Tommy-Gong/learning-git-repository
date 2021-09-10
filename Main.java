@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Hello World");
         System.out.println("dev01新增");
+        System.out.println("master新增");
     }
 }
